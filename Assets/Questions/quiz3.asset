@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: quiz3
   m_EditorClassIdentifier: 
   question: What movie has the best-selling soundtrack of all time?
+  TheAnswers:
+  - 'THE LION KING '
+  - 'frozen '
+  - Grease
+  - The Bodyguard
+  indexCorrect: 3

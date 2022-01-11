@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: quiz2
   m_EditorClassIdentifier: 
   question: "\rWhich actor voiced both Darth Vader and The Lion King\u2018s Mufasa?\r\n"
+  TheAnswers:
+  - James Earl Jones.
+  - brad pitt
+  - bradley cooper
+  - ed helms
+  indexCorrect: 0
