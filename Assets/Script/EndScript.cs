@@ -7,7 +7,7 @@ public class EndScript : MonoBehaviour
     [SerializeField] TextMeshProUGUI finalscoreText;
     ScoreKepper scoreKepper;
     
-    void Start()
+    void Awake()
     {
         scoreKepper=FindObjectOfType<ScoreKepper>();
     }
